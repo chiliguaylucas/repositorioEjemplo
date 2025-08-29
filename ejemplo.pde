@@ -3,7 +3,7 @@ float vx, vy;
 float r = 20;     
 
 void setup() {
-  size(600, 400);
+  size(400, 400);
   x = width/2;
   y = height/2;
   vx = 3;   
